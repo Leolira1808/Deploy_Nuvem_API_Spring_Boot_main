@@ -2,6 +2,13 @@
 ***
 Neste projeto passamos pelo desafio de desenvolver um conjunto de API’s utilizando Spring Boot para controlar um estacionamento de veículos. Serão controlados a entrada, saída e valor a ser cobrado do cliente. Iremos ser instruídos a aplicar todas as boas práticas de desenvolvimento de API’s incluindo segurança com Spring Security e acesso a banco de dados PostgreSQL. Serão realizados testes e relatórios de cobertura de testes. Após finalizarmos a aplicação e termos enviado para o Github, nos é proposto fazer o deploy na cloud do Heroku a fim de disponibilizar nossa API para a Internet.
 
+<div style="display: inline_block"><br>
+<img align="center" height="130" weight="40" alt="Visual code" img src= 
+https://hermes.digitalinnovation.one/tracks/22cdb398-5ca2-4420-ae76-7a7ec5078ea8.png>
+</div>
+
+## Spring Framework Experience
+
 _**Pré-requisitos:**_
 
 _Lógica de programação e POO;_   
@@ -10,8 +17,9 @@ _Conhecimento em Banco de dados PostgreSQL;_
 _Conhecimento em GitHub e Heroku;_   
 
 Instrutor: Sandro Giacomozzi - Software engineer, TOTVS   
-Carga Horária -> Proposta do Projeto e Mini Curso Springboot: 10h;   
-Avaliado como: Full-Stack, Avançado   
+Carga Horária ->  10h;   
+Avaliado como: Full-Stack, Avançado  
+Spring Framework Experience - MODULO II - Principais_Plrojetos_Spring_Framwork
 
 - Apresentação dos objetivos e requisitos do projeto. Introdução aos conceitos do Spring Boot. Gerando nossa aplicação com o Spring Initializr.   
 - Apresentando a estrutura do pom.xml e as dependências do projeto.   
